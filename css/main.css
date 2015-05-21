@@ -1,0 +1,41 @@
+/* links */
+
+.ul{
+	color: #FFFFFF;
+	font-size: 30px;
+	text-decoration: none;
+	margin:30px 0px 0px 700px;	
+}
+
+.li{
+	color: #FFFFFF;
+	list-style-type: none;
+	text-decoration: none;
+	display: inline-block;
+    text-align: center;
+  	margin:10px;
+}
+
+/* home */
+#div{ 
+	height:100px;
+	margin:100px 20px 20px 20px;
+}
+
+#text{
+	font-size: 40px;
+	text-align: center;
+}
+
+#cursive{
+	font: 20px;
+	text-align: center;
+}
+
+#bar{
+	background-color:black;
+	height:2px;
+	width:580px;
+	margin-left: 300px; 
+	
+}
