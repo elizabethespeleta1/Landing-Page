@@ -1,14 +1,23 @@
 /* links */
 
 .ul{
-	color: #FFFFFF;
-	font-size: 30px;
+	color:#FFD1D1;
+	font-size: 20px;
+	margin-left: 900px;
+}
+
+a{
+	color:black;
+	font-family: 'Comfortaa', cursive;
+	font-size: 20px;
+	list-style-type: none;
 	text-decoration: none;
-	margin:30px 0px 0px 700px;	
 }
 
 .li{
-	color: #FFFFFF;
+	color:#FFD1D1;
+	font-family: 'Comfortaa', cursive;
+	font-size: 20px;
 	list-style-type: none;
 	text-decoration: none;
 	display: inline-block;
@@ -17,25 +26,121 @@
 }
 
 /* home */
-#div{ 
+#home{
+	
+}
+
+header{
+	margin-top: 0px;
+	padding: 15px 0px 25px 0px;
+	background-image: url('../brick.png');
+}
+
+.div{
 	height:100px;
 	margin:100px 20px 20px 20px;
 }
 
-#text{
+.text{
+	font-family: 'Mr Dafoe', cursive;
+	color:#FFD1D1;
 	font-size: 40px;
 	text-align: center;
 }
 
 #cursive{
+	font-family: 'Pinyon Script', cursive;
 	font: 20px;
+	color:black;
 	text-align: center;
 }
 
-#bar{
+.bar{
+	background-color:#D1CCCC;
+	height:2px;
+	width:580px;
+	margin-top: 10px;
+	margin-left: 400px; 
+	
+}
+
+
+/* about page */
+.div2{ 
+	height:100px;
+	margin:70px 20px 20px 20px;
+}
+
+.cursivee{
+	font: 20px;
+	margin-top: 20px;
+	margin-left: 350px;
+}
+.blogtext{
+	height:100px;
+	width:150px;
+	margin-top: 10px;
+	margin-left: 300px;
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+}
+
+.bar2{
 	background-color:black;
 	height:2px;
 	width:580px;
-	margin-left: 300px; 
+	margin-top: 20px;
+	margin-left: 400px; 
 	
+}
+
+.porfoliotext{
+	height:100px;
+	width:150px;
+	margin-top: 20px;
+	margin-left: 300px;
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+}
+
+
+/*  contact page */
+
+.picture{
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.infobox{
+	margin: 0px 10px 90px 20px;
+	display: inline-block;
+}
+
+.barz{
+	height:2px;
+	width:300px;
+	background-color:black;
+	margin-left: 100px; 
+	display: inline;
+	font-size:1px;
+}
+.barzz{
+	height:1px;
+	width:300px;
+	background-color:black;
+	margin-left: 100px; 
+	display: inline;
+	font-size:1px;
+}
+
+.info{
+	margin-bottom: 00px;
+	margin-left: 70px;
+}
+
+.info2{
+	margin-bottom: 0px;
+	margin-left: 70px;
 }
